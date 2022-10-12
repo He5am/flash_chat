@@ -1,6 +1,6 @@
-# flash_chat
+# Flash Chat
 
-A new Flutter project.
+simple chat app to make connection with your friends
 
 ## Getting Started
 
